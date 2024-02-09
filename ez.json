@@ -1,0 +1,63 @@
+{
+ "mydata":[
+   {
+     "id" : 0,
+     "section":"phone",
+     "title":"6.8' Смартфон Samsung Galaxy S23 Ultra 256 ГБ розовый,android",
+     "price": 119000,
+     "width":"3088",
+     "height":"1440",
+     "os":"android 11.0",
+     "color":"pink",
+     "image":"phone_samsung_12_3.png",
+     "rating":9,
+   },
+   {
+     "id" : 1,
+     "section":"video card",
+     "title":" Видеокарта MSI GeForce RTX 4090 SUPRIM X [RTX 4090 SUPRIM X 24G] 2235 МГц ",
+     "price": 249000,
+     "width":"3088",
+     "height":"1440",
+     "color":"black",
+     "image":"pc_rtx4090_12_3.png",
+     "custom":"none",
+     "rating":6,
+   },
+   {
+ "id" : 2,
+     "section":"CPU",
+     "title":"Процессор Intel Core i5-14600K OEM",
+     "price": 39999,
+     "image":"pc_intel14600_12_3.png",
+     "custom":"none",
+     "rating":8,
+     "graphics":"Intel UHD Graphics 770"
+   },
+   {     "id" : 1,
+     "section":"video card",
+     "title":" Видеокарта GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC [GV-N406TWF2OC-8GD] ",
+     "oc":"GV-N406TWF2OC-8GD"
+     "price": 43990,
+     "width":"3088",
+     "height":"1440",
+     "color":"black",
+     "image":"pc_rtx4060_12_3.png",
+     "custom":"none",
+     "rating":9,
+   },
+   {
+     "id" : 1,
+     "section":"video card",
+     "title":" Видеокарта PowerColor AMD Radeon RX 580 Red Dragon ",
+     "oc":"AXRX 580 8GBD5-DHDV2/OC"
+     "price": 10000,
+     "width":"3088",
+     "height":"1440",
+     "color":"black",
+     "image":"pc_rx580_12_3.png",
+     "custom":"none",
+     "rating":7,
+   },
+
+   
