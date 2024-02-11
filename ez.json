@@ -223,7 +223,7 @@
    },
 
    {     
-     "id" : 12,
+     "id" : 19,
      "section":"mouse",
      "title":" Мышь Logitech G403 HERO",
      "dpi":"16000",
@@ -234,6 +234,15 @@
      "image":"pc_byf_12_3.png",
      "custom":"none",
      "rating":3,
+   },
+   {     "id" : 20,
+     "section":"keyboard",
+     "title":"Клавиатура A4TECH Bloody S98, USB",
+     "price": 5299,
+     "color":"black,red",
+     "image":"pc_bssdey_12_3.png",
+     "custom":"none",
+     "rating":9,
    },
 
   
