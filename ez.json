@@ -34,6 +34,9 @@
      "custom":"none",
      "rating":8,
      "graphics":"Intel UHD Graphics 770"
+     "socket":"LGA 1700"
+      "kernel":6,
+      "threads":12
    },
    {     "id" : 3,
      "section":"video card",
@@ -205,6 +208,32 @@
      "rating":10,
    }
 
+  {
+ "id" : 18,
+     "section":"CPU",
+     "title":"Процессор AMD Ryzen 7 5700X, OEM",
+     "price": 18999,
+     "image":"pc_iasw600_12_3.png",
+     "custom":"none",
+     "rating":6,
+     "graphics":"Intel UHD Graphics 770"
+   "socket":"AM4"
+   "kernel":6,
+   "threads":12,
+   },
 
+   {     
+     "id" : 12,
+     "section":"mouse",
+     "title":" Мышь Logitech G403 HERO",
+     "dpi":"16000",
+     "usb":" 2.0",
+     "button":5,
+     "price": 12999,
+     "color":"black",
+     "image":"pc_byf_12_3.png",
+     "custom":"none",
+     "rating":3,
+   },
 
   
