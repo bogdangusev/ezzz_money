@@ -9,6 +9,7 @@
      "height":"1440",
      "oc":"android 11.0",
      "color":"pink",
+    "memory":256,
      "image":"phone_samsung_12_3.png",
      "rating":9,
    },
@@ -131,7 +132,7 @@
   {
   "id" : 11,
      "section":"phone",
-     "title":"6.8' 6.7" Смартфон Apple iPhone 15 Pro Max 512 ГБ",
+     "title":"Смартфон Apple iPhone 15 Pro Max 512 ГБ",
      "price": 119000,
      "memory":512,
      "oc":"ios 17",
