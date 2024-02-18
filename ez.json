@@ -33,15 +33,15 @@
      "image":"pc_intel14600_12_3.png",
      "custom":"none",
      "rating":8,
-     "graphics":"Intel UHD Graphics 770"
-     "socket":"LGA 1700"
+     "graphics":"Intel UHD Graphics 770",
+     "socket":"LGA 1700",
       "kernel":6,
-      "threads":12
+      "threads":12,
    },
    {     "id" : 3,
      "section":"video card",
      "title":" Видеокарта GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC [GV-N406TWF2OC-8GD] ",
-     "oc":"GV-N406TWF2OC-8GD"
+     "oc":"GV-N406TWF2OC-8GD",
      "price": 43990,
      "width":"3088",
      "height":"1440",
@@ -54,7 +54,7 @@
      "id" : 4,
      "section":"video card",
      "title":" Видеокарта PowerColor AMD Radeon RX 580 Red Dragon ",
-     "oc":"AXRX 580 8GBD5-DHDV2/OC"
+     "oc":"AXRX 580 8GBD5-DHDV2/OC",
      "price": 10000,
      "color":"black",
      "image":"pc_rx580_12_3.png",
@@ -216,8 +216,8 @@
      "image":"pc_iasw600_12_3.png",
      "custom":"none",
      "rating":6,
-     "graphics":"Intel UHD Graphics 770"
-   "socket":"AM4"
+     "graphics":"Intel UHD Graphics 770",
+   "socket":"AM4",
    "kernel":6,
    "threads":12,
    },
